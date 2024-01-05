@@ -1,4 +1,4 @@
-# Vaibhav Vudayagiri - Sr. Software Engineer (Team Lead)
+# Vaibhav Vudayagiri - Sr. Software Engineer
 
 👋 Hi there! I'm Vaibhav, a front-end/full-stack specialist with a passion for crafting exceptional user experiences and leading development teams.
 
