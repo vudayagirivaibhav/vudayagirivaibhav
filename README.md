@@ -10,7 +10,7 @@
 
 🤔 **Seeking Help:** Eager to learn more about AI integration in web development.
 
-💬 **Ask Me About:** JavaScript, front-end development, team leadership, and software architecture.
+💬 **Ask Me About:** front-end/full-stack development, team leadership, and software architecture.
 
 📫 **Contact:** [Email](mailto:vaibhav.vudayagiri@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vaibhavvudayagiri/)
 
