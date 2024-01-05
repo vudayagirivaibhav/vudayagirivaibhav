@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Vaibhav, a front-end/full-stack specialist with a passion for crafting exceptional user experiences and leading development teams.
 
-🔭 **Currently Working On:** Advanced React, GraphQL, and exploring AI in web development.
+🔭 **Currently Working On:** Angular,  React, Next,  Java , NodeJs, GraphQL, and exploring AI in web development.
 
 🌱 **Learning:** Continuously delving into modern JavaScript frameworks and cloud computing trends.
 
